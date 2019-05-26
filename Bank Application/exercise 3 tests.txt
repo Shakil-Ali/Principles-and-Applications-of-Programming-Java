@@ -1,0 +1,18 @@
+BANK
+test adds interest
+print bank
+3 account withdrawals
+4th should incure charges
+checking account withdrawals without funds
+withdraw and deposit
+test withdraw and deposit all accounts
+do withdrawal and withdrawal (cheque) - use negative aswell
+test number of checks by account
+print number of checks being used
+reset checks and reprint to check
+print number of checking accounts
+test to see if checks reset when reset called
+test with counter doesnt exist
+test with no counter has no funds
+and test which works
+
